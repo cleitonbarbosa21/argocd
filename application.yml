@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/kenerry-serain/dvn-workshop-mar-dia-2-gitops
+    repoURL: https://github.com/cleitonbarbosa21/argocd
     targetRevision: HEAD
     path: .
   destination:
