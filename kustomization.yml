@@ -9,9 +9,9 @@ resources:
 
 
 images:
-- name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
-  newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
-  newTag: ed8ab80e149f2d37e5b5996b4b51599113e305c2
-- name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
-  newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
-  newTag: ed8ab80e149f2d37e5b5996b4b51599113e305c2
+- name: 743207691822.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
+  newName: 743207691822.dkr.ecr.us-east-1.amazonaws.com/workshop/production/backend
+  newTag: v1.0
+- name: 743207691822.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
+  newName: 743207691822.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
+  newTag: v1.0
