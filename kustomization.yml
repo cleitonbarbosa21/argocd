@@ -14,4 +14,4 @@ images:
   newTag: 3540910ba0558c32b3b09fd8d979dda6b168659c
 - name: 743207691822.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
   newName: 743207691822.dkr.ecr.us-east-1.amazonaws.com/workshop/production/frontend
-  newTag: v1.0
+  newTag: 3540910ba0558c32b3b09fd8d979dda6b168659c
